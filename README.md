@@ -18,9 +18,9 @@
 
 <b><details><summary>💡 [常用算法](Algorithms/)</summary></b>
 
-* [排序](sort/)
+* [排序](Algorithms/sort/)
     * []()
-* [查找](Seek/)
+* [查找](Algorithms/Seek/)
     * []()
 
 </details>
