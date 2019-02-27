@@ -16,7 +16,7 @@
 * [图](graph/)
 </details>
 
-<b><details><summary>💡 [常用算法]()</summary></b>
+<b><details><summary>💡 [常用算法](Algorithms/)</summary></b>
 
 * [排序](sort/)
     * []()
