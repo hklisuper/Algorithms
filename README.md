@@ -1,31 +1,19 @@
-# Notes of c++
-
-
-
-## 目录
-
 ## C/C++
 
 ## STL
 
 ## 数据结构
-* [队列](DataStructures/Queue/)
-* [链表](DataStructures/LinkedList/)
-* [集合](DataStructures/Collection/)
-* [数组](DataStructures/Array/)
-* [栈](DataStructures/Stack/)
-* [树(二叉树等)](DataStructures/Tree/)
-* [图](DataStructures/graph/)
-
+- [队列](DataStructures/Queue/)
+- [链表](DataStructures/LinkedList/)
+- [集合](DataStructures/Collection/)
+- [数组](DataStructures/Array/)
+- [栈](DataStructures/Stack/)
+- [树(二叉树等)](DataStructures/Tree/)
+- [图](DataStructures/graph/)
 
 ## [常用算法](Algorithms/)
-
-* [排序](Algorithms/sort/)
-    * []()
-* [查找](Algorithms/Seek/)
-    * []()
-
-
+- [排序](Algorithms/sort/)
+- [查找](Algorithms/Seek/)
 
 ## [设计模式]()
 
