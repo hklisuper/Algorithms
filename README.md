@@ -11,11 +11,11 @@
 - [树(二叉树等)](DataStructures/Tree/)
 - [图](DataStructures/graph/)
 
-## [常用算法](Algorithms/)
+## 常用算法
 - [排序](Algorithms/sort/)
 - [查找](Algorithms/Seek/)
 
-## [设计模式]()
+## 设计模式
 
 
 ## 操作系统
@@ -30,7 +30,7 @@ TODO
 TODO
 
 
-## [练习](Practice/)
+## 练习
 
 - [剑指offer](Practice/剑指offer/)
 - [leetcode](Practice/leetcode/)
