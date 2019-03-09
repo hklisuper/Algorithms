@@ -4,15 +4,13 @@
 
 ## 目录
 
-<b><details><summary>💡 C/C++</summary></b>
-TODO
-</details>
+##C/C++
 
-<b><details><summary>💡 STL</summary></b>
+## STL
 TODO
-</details>
 
-<b><details><summary>☝ [数据结构](DataStructures/)</summary></b>
+
+## [数据结构](DataStructures/)
 * [队列](DataStructures/Queue/)
 * [链表](DataStructures/LinkedList/)
 * [集合](DataStructures/Collection/)
@@ -20,40 +18,43 @@ TODO
 * [栈](DataStructures/Stack/)
 * [树(二叉树等)](DataStructures/Tree/)
 * [图](DataStructures/graph/)
-</details>
 
-<b><details><summary>💡 [常用算法](Algorithms/)</summary></b>
+
+## [常用算法](Algorithms/)
 
 * [排序](Algorithms/sort/)
     * []()
 * [查找](Algorithms/Seek/)
     * []()
 
-</details>
 
-<b><details><summary>☝ [设计模式]()</summary></b>
-</details>
 
-<b><details><summary>💡 操作系统</summary></b>
+## [设计模式]()
+
+
+## 操作系统
 TODO
-</details>
 
-<b><details><summary>💡 计算机网络</summary></b>
+
+## 计算机网络
 TODO
-</details>
 
-<b><details><summary>💡 数据库</summary></b>
+
+## 数据库
 TODO
-</details>
 
-<b><details><summary>💡 [练习](Practice/)</summary></b>
+
+## [练习](Practice/)
 
 - [剑指offer](Practice/剑指offer/)
 - [leetcode](Practice/leetcode/)
-</details>
 
-<b><details><summary>💡 参考书籍</summary></b>
 
-</details>
+## 参考书籍
 
+ TODO
+
+
+<br>
+<br>
 ``持续更新中~``
