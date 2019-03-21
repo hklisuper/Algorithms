@@ -11,7 +11,7 @@
 - [树(二叉树等)](DataStructures/Tree/)
 - [图](DataStructures/graph/)
 
-## 常用算法
+## [常用算法](Algorithms/)
 - [排序](Algorithms/sort/)
 - [查找](Algorithms/Seek/)
 
