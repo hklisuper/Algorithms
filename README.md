@@ -1,7 +1,7 @@
 ## C/C++
 
 ## leetcode
-[letter tile possibilities](/leetcode/1079 medium letter tile possibilites.md)
+[letter tile possibilities](/leetcode/1079)
 
 ## 数据结构
 - [队列](DataStructures/Queue/)
