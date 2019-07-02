@@ -1,7 +1,7 @@
 ## C/C++
 
 ## leetcode
-[1079 letter tile possibilities](/leetcode/1079.md)
+[1079 letter tile possibilities](https://hklisuper.github.io/Notes-Of-Cpp/leetcode/1079.md)
 
 ## 数据结构
 - [队列](DataStructures/Queue/)
