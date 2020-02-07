@@ -1,0 +1,32 @@
+<html>
+    <title></title>
+    <body>
+        <script>
+            function do1(){
+                var step = 0;
+                while(true){
+                    switch(step){
+                        case 0:
+                                if(confirm("你是猪吗")){
+                                    step = step + 7;
+                                }else{
+                                    step = 1;
+                                }
+                                break;
+                        case 1:
+                                alert("你不是猪");
+                                step--;
+                                break;
+                        case 7:
+                                step = 0;
+                                alert("哈哈，你是猪呀");
+                                break;
+                    }
+                }
+            }
+            window.onload = function(){
+               do1();
+            };
+        </script>
+    </body>
+</html>
